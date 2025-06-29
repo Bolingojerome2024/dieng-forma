@@ -1,0 +1,28 @@
+/**
+* @license
+*
+* Font Family: Clash Grotesk
+* Designed by: Indian Type Foundry
+* URL: https://www.fontshare.com/fonts/clash-grotesk
+* © 2025 Indian Type Foundry
+*
+* Clash Grotesk Extralight 
+* Clash Grotesk Light 
+* Clash Grotesk Regular 
+* Clash Grotesk Medium 
+* Clash Grotesk Semibold 
+* Clash Grotesk Bold 
+* Clash Grotesk Variable (Variable font)
+
+*
+*/
+@font-face {
+  font-family: 'ClashGrotesk';
+  src: url('../fonts/ClashGrotesk-Extralight.woff2') format('woff2'),
+       url('../fonts/ClashGrotesk-Extralight.woff') format('woff'),
+       url('../fonts/ClashGrotesk-Extralight.ttf') format('truetype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+
